@@ -1,4 +1,4 @@
-# Wellcome to my profile!!
+# Welcome to my profile!! 👋
 
 I'm a developer instructed in different technologies and languages. 
 
@@ -12,8 +12,12 @@ I know that I will be so helpful for many people. 😊
 
 **Tank you for your interest.** 😉 
 
-.<a href="https://github.com/Astorcamon?tab=followers"><img src="https://img.shields.io/github/followers/Astorcamon?label=Follow&style=social" alt="Followers" width=100/></a>
+.<a href="https://github.com/Astorcamon?tab=followers"><img src="https://img.shields.io/github/followers/Astorcamon?label=Followers&style=social" alt="Followers" width=118/></a>
 <a href="https://github.com/sponsors/Astorcamon"><img src="https://img.shields.io/github/sponsors/Astorcamon?label=Sponsors&style=social" alt="Sponsors" width=115/></a>
+<img src="https://badges.pufler.dev/visits/Astorcamon/Astorcamon?style=social" alt="Visits Badge" width=80/>
+<img src="https://badges.pufler.dev/repos/Astorcamon?style=social" alt="Repos Badge" width=77/>
+<img src="https://badges.pufler.dev/updated/Astorcamon/Astorcamon?style=social" alt="Last Update" width=156/>
+<img src="https://img.shields.io/badge/Rev-0.2-FFFFFF?style=social" alt="Revision" width=72/>
 
 ------------------------------------
 
@@ -22,7 +26,7 @@ I know that I will be so helpful for many people. 😊
 # Projects on my own
 
 <Table>
-    <th>Proyect</th>
+    <th>Project</th>
     <th>License</th>
     <th>Downloads</th>
     <th>Stats</th>
@@ -42,8 +46,26 @@ I know that I will be so helpful for many people. 😊
 
 <br/>
 
-# Colaborations
-**If you appreciate my effort, may be you could like to support me by making a donation. Thank you so much ☺**
+# Stats
+<details>
+    <summary>Click to expand</summary>
+<table>
+    <tr>      
+        <td rowspan=2 width="50%"><img src="https://metrics.lecoq.io/Astorcamon" alt="GitHub metrics"/></td>    
+        <td><img src="https://github-readme-stats.vercel.app/api?username=Astorcamon&show_icons=true&count_private=true&theme=tokyonight&title_color=e1ba6b&text_color=d8686a&icon_color=e1ba6b&bg_color=00000000" alt="GitHub stats"/></td>
+        <td rowspan=2 valign="top">
+            <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Astorcamon&row=50&column=1&no-bg=true&theme=onedark&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="trophy"/></a>
+        </td>
+    </tr>
+    <tr><td><img src="https://github-readme-streak-stats.herokuapp.com/?user=Astorcamon&background=00000000&ring=e1ba6b&sideNums=d8686a&sideLabels=d8686a&currStreakLabel=e1ba6b&currStreakNum=0f80c0&fire=e1ba6b&dates=0f80c0" alt="GitHub streak stats"/></td></tr>    
+</table>
+</details>
+
+<br/>
+
+# Collaborations
+**If you find useful my work, please, consider to support me.** 😉
+**Thank you so much** 😊
 
 <Table>
    <th>Paypal</th>
@@ -53,6 +75,3 @@ I know that I will be so helpful for many people. 😊
     <td><a href="https://github.com/sponsors/Astorcamon"><img src="https://img.shields.io/badge/Sponsor-404040?style=flat&logo=GitHub-Sponsors" width="135"/></a></td>    
   </tr>
 </table>
-
-
-
