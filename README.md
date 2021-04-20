@@ -13,14 +13,8 @@
         I know that I will be so helpful for many people. 😊
         <br/><br/>
         <b>Tank you for your interest.</b> 😉 
-        <hr/>
-        <a href="https://github.com/Astorcamon?tab=followers"><img src="https://img.shields.io/github/followers/Astorcamon?label=Followers&style=social" alt="Followers"/></a>
-        <a href="https://github.com/sponsors/Astorcamon"><img src="https://img.shields.io/github/sponsors/Astorcamon?label=Sponsors&style=social" alt="Sponsors"/></a>
-        <img src="https://badges.pufler.dev/visits/Astorcamon/Astorcamon?style=social" alt="Visits Badge"/>
-        <img src="https://badges.pufler.dev/repos/Astorcamon?style=social" alt="Repos Badge"/>
-        <img src="https://badges.pufler.dev/updated/Astorcamon/Astorcamon?style=social" alt="Last Update"/>
-        <img src="https://img.shields.io/badge/Rev-0.3-FFFFFF?style=social" alt="Revision"/>        
-        <hr/>
+
+# Support
         
 **If you find useful my work, please, consider to support me.** 😉
 
@@ -34,6 +28,13 @@
     <td><a href="https://github.com/sponsors/Astorcamon"><img src="https://img.shields.io/badge/Sponsor-404040?style=flat&logo=GitHub-Sponsors" width="125"/></a></td>    
   </tr>
 </table>
+        <hr/>
+        <a href="https://github.com/Astorcamon?tab=followers"><img src="https://img.shields.io/github/followers/Astorcamon?label=Followers&style=social" alt="Followers"/></a>
+        <a href="https://github.com/sponsors/Astorcamon"><img src="https://img.shields.io/github/sponsors/Astorcamon?label=Sponsors&style=social" alt="Sponsors"/></a>
+        <img src="https://badges.pufler.dev/visits/Astorcamon/Astorcamon?style=social" alt="Visits Badge"/>
+        <img src="https://badges.pufler.dev/repos/Astorcamon?style=social" alt="Repos Badge"/>
+        <img src="https://badges.pufler.dev/updated/Astorcamon/Astorcamon?style=social" alt="Repos Badge"/> 
+        <img src="https://img.shields.io/badge/Rev-0.4-FFFFFF?style=social" alt="Revision"/>
     </td>
     <td width="40%"><img src="https://metrics.lecoq.io/Astorcamon?template=classic&languages=1&licenses=1&reactions=1&languages.limit=8&languages.colors=github&languages.threshold=0%25&licenses.ratio=false&licenses.legal=true&reactions.limit=200&reactions.days=0&reactions.display=absolute&config.timezone=Europe%2FMadrid" alt="GitHub metrics"/></td>    
 </tr>
