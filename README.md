@@ -33,7 +33,7 @@ I know that I will be so helpful for many people. 😊
   <tr>
     <td><a href="https://github.com/Astorcamon/TimersPack"><img src="https://img.shields.io/badge/TimersPack-private-blue?color=red&labelColor=blue" alt="TimersPack" width=150/></a></td>
     <td><a href="https://github.com/Astorcamon/TimersPack/blob/main/LICENSE"><img src="https://img.shields.io/github/license/Astorcamon/TimersPack" width=175/></a></td>
-    <td><a href="https://github.com/Astorcamon/TimersPack"><img src="https://img.shields.io/github/downloads/Astorcamon/Astorcamon/total" width=175/></a></td> 
+    <td><a href="https://github.com/Astorcamon/TimersPack"><img src="https://img.shields.io/github/downloads/Astorcamon/Astorcamon/total" width=115/></a></td> 
     <td>
         <a href="https://github.com/Astorcamon?tab=repositories"><img src="https://img.shields.io/github/stars/Astorcamon/TimersPack?style=social" alt="Stars" width=150/></a>
         <br/>
