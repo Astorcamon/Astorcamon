@@ -39,7 +39,7 @@
         </table>
     </td>
 </tr>
-	<tr><td width="420"><a href="https://github.com/Astorcamon"><img src="assets/stats/metrics.svg"/></a></td></tr>
+	<tr><td width="410"><a href="https://github.com/Astorcamon"><img src="assets/stats/metrics.svg"/></a></td></tr>
 <tr>
     <!-- OLD <td><img src="https://github-readme-stats.vercel.app/api?username=Astorcamon&show_icons=true&count_private=true&bg_color=00000000&theme=tokyonight&icon_color=e1ba6b" alt="GitHub stats"/></td> -->
 	<td><a href="https://github.com/Astorcamon"><img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Astorcamon&show_icons=true&count_private=true&bg_color=00000000&theme=tokyonight&icon_color=e1ba6b" alt="GitHub stats"/></td>
@@ -59,7 +59,7 @@
         <th>Project</th>
         <th>License</th>
         <th>Downloads</th>
-        <th width=292>Stats</th>
+        <th width=335>Stats</th>
     </tr>
 	<tr>
 		<!-- Repo DInamic-->
