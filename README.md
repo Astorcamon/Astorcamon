@@ -1,6 +1,6 @@
-<table border="0">
+<table border="0" width="600px">
 <tr>
-    <td rowspan="5" valign="top">
+    <td rowspan="5" valign="top" width="300px">
         <h2>Welcome!! 👋</h2>
         I'm a software developer with experience across multiple technologies and programming languages.
         <br/><br/>
@@ -15,7 +15,7 @@
             <a href="https://github.com/Astorcamon/Astorcamon"><img src="https://komarev.com/ghpvc/?username=Astorcamon&style=flat-square" alt="Profile Views"/></a>
             <a href="https://github.com/Astorcamon?tab=followers"><img src="https://img.shields.io/github/followers/Astorcamon?label=Followers&style=flat-square" alt="Followers"/></a>
             <a href="https://github.com/sponsors/Astorcamon"><img src="https://img.shields.io/github/sponsors/Astorcamon?label=Sponsors&style=flat-square" alt="Sponsors"/></a>
-            <a href="https://github.com/Astorcamon?tab=repositories"><img src="https://img.shields.io/badge/Repositories-Click_Here-blue?style=flat-square" alt="Repos Badge"/></a>
+            <a href="https://github.com/Astorcamon?tab=repositories"><img src="https://img.shields.io/badge/Repos-Click_Here-blue?style=flat-square" alt="Repos Badge"/></a>
 	        <!-- OLD - UNUSED
 	        <a href="https://github.com/Astorcamon/Astorcamon"><img src="https://img.shields.io/badge/Updated-Automatically-2ea44f?style=social" alt="Last Update"/></a>
 	        <a href="https://github.com/Astorcamon/Astorcamon"><img src="https://img.shields.io/badge/Rev-0.3-FFFFFF?style=social" alt="Revision"/></a>
@@ -39,7 +39,7 @@
         </table>
     </td>
 </tr>
-	<tr><td width="40%"><a href="https://github.com/Astorcamon"><img src="assets/stats/metrics.svg"/></a></td></tr>
+	<tr><td width="465"><a href="https://github.com/Astorcamon"><img src="assets/stats/metrics.svg"/></a></td></tr>
 <tr>
     <!-- OLD <td><img src="https://github-readme-stats.vercel.app/api?username=Astorcamon&show_icons=true&count_private=true&bg_color=00000000&theme=tokyonight&icon_color=e1ba6b" alt="GitHub stats"/></td> -->
 	<td><a href="https://github.com/Astorcamon"><img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Astorcamon&show_icons=true&count_private=true&bg_color=00000000&theme=tokyonight&icon_color=e1ba6b" alt="GitHub stats"/></td>
@@ -78,13 +78,9 @@
         <td><a href="https://github.com/Astorcamon/TimersPack"><img src="https://img.shields.io/github/downloads/Astorcamon/Astorcamon/total"/></a></td>
 	<!-- stats -->
         <td>
-            <table>
-                <tr>
-                    <td><a href="https://github.com/Astorcamon/TimersPack/stargazers"><img src="https://img.shields.io/github/stars/Astorcamon/TimersPack?style=social" alt="Stars"/></a></td>
-                    <td><a href="https://github.com/Astorcamon/TimersPack/network/members"><img src="https://img.shields.io/github/forks/Astorcamon/TimersPack?style=social" alt="Forks"/></a></td>
-                    <td><a href="https://github.com/Astorcamon/TimersPack/watchers"><img src="https://img.shields.io/github/watchers/Astorcamon/TimersPack?label=Watch&style=social" alt="Watchers"/></a></td>
-                </tr>
-            </table>
+			<a href="https://github.com/Astorcamon/TimersPack/stargazers"><img src="https://img.shields.io/github/stars/Astorcamon/TimersPack?style=social" alt="Stars"/></a><br/>
+			<a href="https://github.com/Astorcamon/TimersPack/network/members"><img src="https://img.shields.io/github/forks/Astorcamon/TimersPack?style=social" alt="Forks"/></a><br/>
+			<a href="https://github.com/Astorcamon/TimersPack/watchers"><img src="https://img.shields.io/github/watchers/Astorcamon/TimersPack?label=Watch&style=social" alt="Watchers"/></a><br/>
         </td>
     </tr>
 </table>
