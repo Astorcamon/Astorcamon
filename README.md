@@ -9,7 +9,7 @@
         With this mindset, I'm working to become a strong and independent developer. 💻😎
         <br/><br/>
         I know my work will help many people and that makes me happy. 😊
-        <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+        <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
         <div align="center">
             <!-- BADGES -->
             <a href="https://github.com/Astorcamon/Astorcamon"><img src="https://komarev.com/ghpvc/?username=Astorcamon&style=flat-square" alt="Profile Views"/></a>
